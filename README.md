@@ -13,16 +13,16 @@
 
 ## About me
 
-I am a positive-thinking person who possesses two sides of power. On one hand, I am organised, structured and attentive to detail due to my background as a research chemist. And on the other, due to my personality, I love to communicate with people and solve problems.
+Saya adalah orang yang berpikiran positif dan memiliki dua sisi kekuatan. Di satu sisi, saya terorganisir, terstruktur dan memperhatikan detail. Dan di sisi lain, karena kepribadian saya, saya suka berkomunikasi dengan orang lain dan memecahkan masalah.
 
-I got my Master's Degree from the University of Eastern Finland and have been a PhD fellow at the University of Jyväskylä for 3 years. My research field was computational physical chemistry, which involved modelling of chemical reactions through massively-parallel computing.
+Saya memperoleh gelar sarjana komputer di Universitas Amikom Purwokerto selama 4 tahun. Bidang penelitian saya adalah pemrograman web.
 
-Now, I wish to exploit my research and analytical skills in software testing. Currently, I am intensively studying techniques and tools by attending online courses and testing web applications created for learning purposes.
+Sekarang, saya ingin memanfaatkan penelitian dan keterampilan analitis saya dalam pengujian perangkat lunak. Saat ini saya sedang intensif mempelajari teknik dan alat dengan mengikuti kursus online dan menguji aplikasi web yang dibuat untuk tujuan pembelajaran.
 
-I would be extremely happy to apply obtained knowledge to testing an operational product and gain hands-on experience. It is a crucial step in my current career goal — to become a mid-level software tester in 2 years.
+Saya akan sangat senang menerapkan pengetahuan yang diperoleh untuk menguji produk operasional dan mendapatkan pengalaman langsung. Ini adalah langkah penting dalam tujuan karier saya saat ini..
 
-## CV
-You can download my CV as [a PDF from my Google Drive](https://drive.google.com/file/d/11FJNgtF8fAgEQIFJ0aA9S9O8_6_7Jgp-/view?usp=sharing).
+## Website Portfolio
+Anda bisa melihat portfolio saya [My Website](https://syarifrh.netlify.app/).
 
 ## Skills
 
