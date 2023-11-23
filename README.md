@@ -41,52 +41,44 @@ __Test documentation__
   * Mampu menyiapkan laporan bug yang komprehensif dan memberikan laporan sesi terperinci
 
 __Python fundamentals__
-  * can write simple functions and algorithms
-  * know when to use for and while
-  * able to comprehend easy codes
+  * Dapat menulis fungsi dan algoritma dasar sederhana
+  * Mampu memahami kode-kode yang mudah
+
+__Javascript fundamentals__
+  * Dapat menulis fungsi dan algoritma dasar sederhana
+  * Mampu memahami kode-kode yang mudah
 
 ## Tools
 
-__TestRail__
-  * know how to create test cases and test suits
-  * able to run created test cases
-  * know how to use dashboards and statistics
+__Spreadsheet / Excel__
+  * Create test cases and test suites
+  * Dapat menjalankan kasus uji yang dibuat
 
 __Jira__
-  * know how to create bug reports
-  * able to create projects and track their progress
-
-__SoapUI__
-
-__Browser developer tools__
-
-__VirtualBox__
-  * able to set up and operate virtual machines
+  * Mengetahui dasar penggunaan jira untuk quality assurance
 
 __Trello and Notion__
-  * know how to use Kanban boards and track project progress
-
-__Mind maps & diagrams__
-  * know how to design beautifully simple mind maps
+  * Mengetahui penggunaan Kanban boards and track project progress
 
 ## Courses
 
-__Robot Framework Test Automation, Levels 1-4__  
-*online courses by [Bryan Lamb](https://www.udemy.com/user/bryanl/), Udemy*  
-An intensive course in test automation with Robot Framework.  
-[Link to the certificate of the Level 1](https://www.udemy.com/certificate/UC-93938fbe-c686-47ee-b33a-8ac6701ff2b7/)  
-*Level 2-4 in progress*
+__Quality Assurance Manual & Automation Test__  
+*Bootcamp Online by [SanberCode](https://sanbercode.com/),*  
+Bootcamp intensif dalam Manual & otomatisasi pengujian.
+[Link certificate](https://drive.google.com/file/d/1Dh9cfZpAl4f_RMgtKCGT51ikayEtsN4k/view/)  
 
-__The 1st Online Institute of Software Testing__  
-*online course by Quality Lab, Moscow, Russia*  
-A comprehensive course (132 h) in quality assurance, covering skills in functional testing and test automation.   
-[Link to the certificate](https://quality-lab.ru/school-center/certificate.php?id=22655&lang=en)
+__Quality Assurance__  
+*Bootcamp Online by Digital Talent Scholarship*  
+Bootcamp intensif dalam Manual Test dan Automation dasar katalon studio
+[Link certificate](https://drive.google.com/file/d/1kpfFhznIjqaRgM5_IsgNb7xtOLzJggTo/view?usp=sharing)
 
-__Onboarding to Testing · Jedi Point__  
-*online course by Quality Lab, Moscow, Russia*  
-An intensive introductory course (20 h) to software testing. Quality Lab is one of the biggest Russian providers of educational services tailored for software testers.   
-[Link to the certificate](https://drive.google.com/file/d/16ysUnfckphOZ3VNLYhOX-KnvKEWoCdYA/view?usp=sharing)
+__Quality Assurance__  
+*Virtual Internship by Evermos*  
+Evermos Software Quality Assurance Virtual Internship Program
+[Link to the certificate](https://drive.google.com/file/d/1XQtxToLcMEAaHCRxWz4ePqHpca3gohgc/view?usp=share_link)
 
+__Sertifikat lainnya__
+[Lihat sertifikat](https://www.linkedin.com/in/syarif-ridhohidayatulloh/details/certifications/)
 
 ## Examples of my work
 
