@@ -5,8 +5,8 @@
 - [Tools](#tools)
 - [Courses](#courses)
 - [Examples of my work](#examples-of-my-work)
-  * [Test cases and work in TestRail](#Test-cases-and-work-in-Spreadsheet-/-Excel)
-  * [Bug reports and work in Jira](#Bug-reports-and-work-in-Spreadsheet/Excel,-Trello)
+  * [Test cases and work in TestRail](#test-cases-and-work-in-spreadsheet-/-excel)
+  * [Bug reports and work in Jira](#bug-reports-and-work-in-spreadsheet/excel,-trello)
 
 ## About me
 
