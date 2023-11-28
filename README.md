@@ -83,7 +83,7 @@ __Sertifikat lainnya__
 - [SecondHand Binar Academy](https://secondhand.binaracademy.org/) was used to create demo test cases
   * Test case for checking the checkout process. Check [the Google Sheets document here](https://docs.google.com/spreadsheets/d/1ZskIU0SnobOZK0ksaNNMn3jruSHSLnw8jZW-YjPs_oA/edit?usp=sharing)
  
-- [Bootcamp SanberCode]([https://opensource-demo.orangehrmlive.com/])(https://opensource-demo.orangehrmlive.com/web/index.php/auth/login) was used to create demo test cases.
+- [Bootcamp SanberCode]([https://opensource-demo.orangehrmlive.com/]) was used to create demo test cases.
   * Test case. Check [the Spreadsheet document here](https://docs.google.com/spreadsheets/d/1ndPUBLFhdzFVT5V11oTSAxzFqxheNPLX/edit?usp=sharing&ouid=104832220886143347113&rtpof=true&sd=true).
 
 
