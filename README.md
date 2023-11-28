@@ -81,21 +81,18 @@ __Sertifikat lainnya__
 
 ### Test cases and work in Spreadsheet / Excel
 
-- [The training webshop](http://automationpractice.com/) was used to create demo test cases
-  * Test case for checking the checkout process (in English). Check [the Google Sheets document here](https://docs.google.com/spreadsheets/d/1NpgiyQr2mx2YKddbXOFi7YygWE_jUve3spzscLkpTuY/edit?usp=sharing)
-  * Test case for checking the addition of items to the cart (in English). Check [the Google Sheets document here](https://docs.google.com/spreadsheets/d/1PTc-aPCKWBm4B3aaTPsvJ5wgW0P-KkpvaclZAbQzTZY/edit#gid=0)
-
-- [The training webpage Enotes](https://enotes.pointschool.ruin) was used for working with TestRail.
-  * Test case (in Russian) for authorisation. Check [the screenshot from TestRail here](https://drive.google.com/file/d/1X9q5h3NKLI7NZpoU-gaHwSrYq_KQtDsl/view?usp=sharing).
-  * Test case (in Russian) for adding an item to the cart. See [the screenshot from TestRail here](https://drive.google.com/file/d/1L74DBG62BRnl45WuVYsuR3RoYU4KZHrI/view?usp=sharing).
-  * Test suits and a test run for the cart. See [the screenshots from TestRail here](https://drive.google.com/file/d/1imQyEHdDE9FCWtnnPZurh0J9QMTWrS3l/view?usp=sharing).
+- [SecondHand Binar Academy](https://secondhand.binaracademy.org/) was used to create demo test cases
+  * Test case for checking the checkout process. Check [the Google Sheets document here](https://docs.google.com/spreadsheets/d/1ZskIU0SnobOZK0ksaNNMn3jruSHSLnw8jZW-YjPs_oA/edit?usp=sharing)
+ 
+- [Bootcamp SanberCode]([https://opensource-demo.orangehrmlive.com/](https://opensource-demo.orangehrmlive.com/web/index.php/auth/login) was used to create demo test cases.
+  * Test case. Check [the Spreadsheet document here](https://docs.google.com/spreadsheets/d/1ndPUBLFhdzFVT5V11oTSAxzFqxheNPLX/edit?usp=sharing&ouid=104832220886143347113&rtpof=true&sd=true).
 
 
 ### Bug reports and work in Spreadsheet/Excel, Trello
 
-- Several bugs found on [the training webpage Loan Calculator](http://creditcalculator.pointschool.ru) and reported:
-  * Bug #1. Check [the screenshot of the bug report in Jira](https://drive.google.com/file/d/1Ypqw992_r6YgXNdqslH1FVW3Y33sT6ip/view?usp=sharing).
-  * Bug #2. Check [the screenshot of the bug report in Jira](https://drive.google.com/file/d/15KB2fIqWO4uIUbAMejk8ZZrkpPfJzz1m/view?usp=sharing).
-  * Bug #3. Check [the screenshot of the bug report in Jira](https://drive.google.com/file/d/1Qn_Fe5gwdEQ-f4PKpg115CZaWl3_N705/view?usp=sharing).
-* An example of a project in Jira. Check [the screenshot](https://drive.google.com/file/d/1uN7R4SGWYZ0zn45id8_CeSzs4sn68BWq/view?usp=sharing).
+- Several bugs found on [SecondHand Binar Academy](https://secondhand.binaracademy.org/) and reported:
+  * Bug #1. Check [the Google Sheets document here](https://docs.google.com/document/d/1BLrjtr09s3xarsJMiZADiq61Cl-AIJls8Li8MOYDJNI/edit?usp=sharing).
+  * Bug #2. Check [the screenshot of the bug report in Trello](https://photos.app.goo.gl/yvf32S2S4aMLpA4MA).
+  * Bug #3. Check [the screenshot of the bug report in Trello](https://photos.app.goo.gl/bnPi9SiZdWsTh5tv6).
+
 
